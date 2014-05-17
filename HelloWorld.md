@@ -1,4 +1,4 @@
-# Hello World File for Quiz 2
+# Hello World File for Data Science Class Project
 --------------------------------
 ## This is a markdown file
 This markdown file was created as an empty file with the touch command in Terminal under MacOSX 7.5, then edited with TextEdit.
